@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">LifeOrganizer</string>
+
+    <string-array name="categories_array">
+        <item>Pendapatan</item>
+        <item>Investasi</item>
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Hiburan</item>
+        <item>Belanja</item>
+        <item>Kesehatan</item>
+        <item>lainya</item>
+    </string-array>
+
+    <!-- Existing strings -->
+    <!-- Removed duplicate keuangan string -->
+
+    <!-- Login strings -->
+    <string name="login_welcome_title">Selamat Datang Kembali!</string>
+    <string name="login_welcome_subtitle">Kelola keuangan cantikmu dengan mudah 💕</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_remember_me">Ingat saya</string>
+    <string name="login_forgot_password">Lupa Password?</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_no_account">Belum punya akun? </string>
+    <string name="login_sign_up">Daftar Sekarang</string>
+
+    <!-- Login validation messages -->
+    <string name="login_empty_email">Email tidak boleh kosong</string>
+    <string name="login_invalid_email">Format email tidak valid</string>
+    <string name="login_empty_password">Password tidak boleh kosong</string>
+    <string name="login_short_password">Password minimal 6 karakter</string>
+    <string name="login_invalid_credentials">Email atau password salah!</string>
+    <string name="login_success">Login berhasil! Selamat datang admin 💕</string>
+
+    <!-- Demo credentials info -->
+    <string name="demo_credentials_info">Demo Login:\nEmail: user@example.com\nPassword: 123456\n\nEmail: santus@gmail.com\nPassword: santus123</string>
+
+    <!-- Toast messages -->
+    <string name="coming_soon_signup">Fitur daftar akan segera hadir!</string>
+    <string name="coming_soon_forgot_password">Fitur lupa password akan segera hadir!</string>
+
+    <string name="category_icon">Category icon</string>
+    <string name="delete_item">Delete item</string>
+    <string name="transaction_title_sample">Transaction Title</string>
+    <string name="category_sample">Category</string>
+    <string name="amount_sample">Rp 500.000</string>
+    <string name="date_sample">12 Jan 2023</string>
+    <string name="update_item">Update item</string>
+</resources>
